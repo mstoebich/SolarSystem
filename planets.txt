@@ -6,3 +6,4 @@ Mars
 Saturn
 Jupiter
 Neptun
+Uranus
